@@ -7,7 +7,7 @@ Summary:	Capture stdout, stderr easily
 Summary(pl.UTF-8):	Łatwe przechwytywanie stdout, stderr
 Name:		python-iocapture
 Version:	0.1.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/iocapture/
